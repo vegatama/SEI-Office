@@ -1,0 +1,16 @@
+package com.suryaenergi.sdm.backendapi.response;
+
+import com.suryaenergi.sdm.backendapi.pojo.CompanyDocumentData;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.util.List;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class CompanyDocumentListResponse {
+    private String message;
+    private List<CompanyDocumentData> data;
+}
