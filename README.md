@@ -1,24 +1,13 @@
-# Apllikasi Kelompok-3 Provis
+# SEO-OFFICE
+## Company Management Website and Apllication
 
-### Anggota
-- Abighail Shafira Ihsani (1908860)
-- Aryo Bagas Pamungkas (2003452)
-- Muhammad Iqbal Zain (1901423)
-- Muhammad Aththar Astaghfiranza (1904631)
-- Vegatama Firdiady (2003400)
-# flutter_application_1
+## Description
+Corporate website and application for needs such as attendance tracking, leave requests, document management, and summary reports.
 
-A new Flutter project.
+## Application Function
+![image](https://github.com/vegatama/SEI-Office/blob/main/SS/seidesc.png)
 
-## Getting Started
+## app and website screenshoot
+![image](https://github.com/vegatama/SEI-Office/blob/main/SS/menu.png)
+![image](https://github.com/vegatama/SEI-Office/blob/main/SS/web.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
