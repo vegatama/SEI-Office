@@ -1,5 +1,5 @@
-# SEO-OFFICE
-## Company Management Website and Apllication
+# SEI-OFFICE
+### Company Management Website and Apllication
 
 ## Description
 Corporate website and application for needs such as attendance tracking, leave requests, document management, and summary reports.
